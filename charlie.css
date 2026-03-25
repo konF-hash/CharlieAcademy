@@ -109,6 +109,8 @@ h3 {
     height: auto;
     display: block;
     margin: 0 auto;
+    width: 20%;
+    
 }
 
 @media (max-width: 768px) {
